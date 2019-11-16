@@ -1,0 +1,33 @@
+{
+  "name": "mew2",
+  "version": "0.0.0",
+  "description": "A lightweight, quick, Vue-like component library. Interfaces with the DOM directly.",
+  "main": "./dist/bundle.js",
+  "dependencies": {
+    "acorn": "^6.2.1",
+    "acorn-loose": "^6.1.0",
+    "acorn-walk": "^6.2.0"
+  },
+  "devDependencies": {
+    "connect": "^3.7.0",
+    "serve-static": "^1.14.1"
+  },
+  "scripts": {
+    "serve": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/james-wasson/Mew2.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Reactive",
+    "Framework"
+  ],
+  "author": "James Adam Wasson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/james-wasson/Mew2/issues"
+  },
+  "homepage": "https://github.com/james-wasson/Mew2#readme"
+}
