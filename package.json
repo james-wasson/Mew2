@@ -4,7 +4,7 @@
   "description": "A lightweight, quick, Vue-like component library. Interfaces with the DOM directly.",
   "main": "./dist/bundle.js",
   "dependencies": {
-    "acorn": "^6.2.1",
+    "acorn": "^6.4.1",
     "acorn-loose": "^6.1.0",
     "acorn-walk": "^6.2.0"
   },
